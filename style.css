@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-size: cover;
+}    
+
+#content-box {
+    width: 400px;
+    height: 500px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#calculate {
+    width: 150px;
+    height: 50px;
+    background-color: lightpink;
+    color: whitesmoke;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
